@@ -1,0 +1,17 @@
+table, th, td{
+  border: 1px solid black;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  flex-direction: column;
+  /* background-color: #202020; */
+}
+
+.btn{
+  padding: 1rem;
+  margin: 1rem;
+  background-color: dodgerblue;
+}
